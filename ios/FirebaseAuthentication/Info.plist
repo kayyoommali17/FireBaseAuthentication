@@ -19,7 +19,7 @@
 	<key>FacebookAppID</key>
 	<string>420633242915583</string>
 	<key>FacebookClientToken</key>
-	<string>98a500b32a4255a8e675e9dc480cb377</string>
+	<!-- <string>98a500b32a4255a8e675e9dc480cb377</string> -->
 	<key>FacebookDisplayName</key>
 	<string>DemoAppFireBase</string>
 	<key>420633242915583</key>
